@@ -1,1 +1,1 @@
-# the-quiz-project-the-benefits-of-OOP
+# the-quiz-project-the-benefits-of-object-oriented-programming
